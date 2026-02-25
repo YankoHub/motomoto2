@@ -10,7 +10,7 @@ jobs:
 
     env:
       ResourceGroupName: "ClicBoumPaf"
-      ResourceGroupLocation: "francecentral"
+      ResourceGroupLocation: "switzerlandnorth"
 
     steps:
       - name: Azure Login
